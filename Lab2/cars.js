@@ -1,6 +1,6 @@
 class Vehicle{
 
-    constructo(make, model, year){
+    constructor(make, model, year){
         this.make = make;
         this.model = model;
         this.year = year;
