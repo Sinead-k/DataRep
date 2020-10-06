@@ -27,4 +27,4 @@ class Cars extends Vehicle{
 }
 
 let myCar = new Cars('VW', 'Golf', 2011, 5);
-myCar.Information();
+myCar.Information()
