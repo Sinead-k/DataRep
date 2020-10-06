@@ -15,4 +15,4 @@ class BMI {
 
 let MyBmi = new BMI(185, 95);
 let calculateBMI = MyBmi.calculateBMI();
-console.log(calculateBMI);
+console.log(calculateBMI)
