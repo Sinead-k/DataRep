@@ -13,6 +13,8 @@ class BMI {
     }
 }
 
+//Create new instance of the object
 let MyBmi = new BMI(185, 95);
 let calculateBMI = MyBmi.calculateBMI();
+//Display output
 console.log(calculateBMI)
